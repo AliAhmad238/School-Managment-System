@@ -1,0 +1,16 @@
+This is a file about TCL
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+yearul
+=======
+this is Maruf
+>>>>>>> f86bd437e0f55933259a69e224e1b3c7ec5e8de1
+=======
+this is Maruf
+>>>>>>> f86bd437e0f55933259a69e224e1b3c7ec5e8de1
+=======
+this is Maruf
+this is noor
+>>>>>>> 6032e9794e3ff1dae175ad9e76da420f3a094374
